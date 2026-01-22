@@ -74,9 +74,15 @@ https://www.raspberrypi.com/
 
 # Electronics and Hardware Industry/Market/Sector Technology Research Journals/Articles/Whitepaper Information
 
+https://www.ieee.org/publications-research
+
 # Electronics and Hardware Industry/Market/Sector Technology Media Information
 
 https://www.digikey.in/
+
+https://www.siliconindia.com/technology/magazines/2025/
+
+https://t3india.com/
 
 https://www.elektormagazine.com/magazine/
 
