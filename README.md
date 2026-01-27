@@ -77,6 +77,10 @@ https://www.infineon.com/product-information
 
 https://www.st.com/en/automotive-microcontrollers.html
 
+https://www.nxp.com/products/processors-and-microcontrollers:MICROCONTROLLERS-AND-PROCESSORS
+
+
+
 # TOOLS/
 
 https://www.raspberrypi.com/
