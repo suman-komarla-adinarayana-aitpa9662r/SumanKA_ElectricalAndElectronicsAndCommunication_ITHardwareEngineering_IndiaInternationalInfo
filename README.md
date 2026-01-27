@@ -70,7 +70,12 @@ Hardware Vendors Starter Kits - RaspberryPi
 
 # Hardware Vendors/OEMS/SUPPLIERS/
 
+
+# AUTMOTIVE HARDWARE VENDORS - MICROCONTROLLERS
+
 https://www.infineon.com/product-information
+
+https://www.st.com/en/automotive-microcontrollers.html
 
 # TOOLS/
 
