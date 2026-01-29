@@ -1,8 +1,42 @@
+# Open Science
+
+https://www.unesco.org/en/open-science
+
+https://en.wikipedia.org/wiki/Open_science
+
+
+# P2P 
+
+https://wiki.p2pfoundation.net/index.php/Main_Page
+
+
 #  Open Hardware projects Information
 
 https://en.wikipedia.org/wiki/Open-source_hardware
 
+https://opensource.com/resources/what-open-hardware
+
+https://www.opencompute.org/
+
 https://www.openhardware.io/
+
+https://oshwa.org/
+
+https://ohwr.org/
+
+https://oshwlab.com/
+
+https://en.oho.wiki/wiki/Home
+
+https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
+
+https://en.wikipedia.org/wiki/Open-source_robotics
+
+https://en.wikipedia.org/wiki/List_of_open-source_mobile_phones
+
+https://en.wikipedia.org/wiki/List_of_open-source_video_games
+
+
 
 # Electrical And Electronics
 
@@ -108,7 +142,7 @@ Hardware Vendors Starter Kits - RaspberryPi
 # Hardware Vendors/OEMS/SUPPLIERS/
 
 
-# AUTMOTIVE HARDWARE VENDORS - MICROCONTROLLERS
+# AUTMOTIVE HARDWARE VENDORS
 
 https://www.infineon.com/product-information
 
