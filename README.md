@@ -154,6 +154,14 @@ https://www.infineon.com/product-information
 
 https://www.raspberrypi.com/
 
+
+# Benchmarks, User Reviews, etc for Electrical/Electronic/ElectroMechanical/Hardware Applications
+
+https://www.arenaev.com/makers.php3
+
+https://www.gsmarena.com/makers.php3
+
+
 # Electronics and Hardware Industry/Market/Sector Technology Research Journals/Articles/Whitepaper Information
 
 https://www.ieee.org/publications-research
