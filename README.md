@@ -5,6 +5,12 @@ https://www.unesco.org/en/open-science
 https://en.wikipedia.org/wiki/Open_science
 
 
+#  Open Electrical And Open Electronics projects Information
+
+https://openelectrical.org/index.php?title=Main_Page
+
+https://www.open-electronics.org/
+
 # P2P 
 
 https://wiki.p2pfoundation.net/index.php/Main_Page
