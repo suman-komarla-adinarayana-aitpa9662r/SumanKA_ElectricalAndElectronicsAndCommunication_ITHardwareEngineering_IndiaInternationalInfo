@@ -57,7 +57,15 @@ https://ohwr.org/
 
 https://oshwlab.com/
 
+https://opendevicepartnership.org/
+
+https://opendevice-iot.web.app/
+
+https://github.com/open-logic/open-logic [Open Logic FPGA Standard Library / Open Logic - A VHDL Standard* Library]
+
 https://openhardware.science/
+
+https://docs.arduino.cc/libraries/opendevice/
 
 https://wiki.opensourceecology.org/wiki/Open_Source_Hardware_Projects
 
