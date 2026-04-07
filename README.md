@@ -63,6 +63,8 @@ https://opendevice-iot.web.app/
 
 https://www.emcu.eu/open-mems-unicleo-gui/
 
+https://openremote.io/
+
 https://github.com/open-logic/open-logic [Open Logic FPGA Standard Library / Open Logic - A VHDL Standard* Library]
 
 https://openhardware.science/
