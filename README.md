@@ -59,6 +59,8 @@ https://oshwlab.com/
 
 https://openhardware.science/
 
+https://wiki.opensourceecology.org/wiki/Open_Source_Hardware_Projects
+
 https://en.oho.wiki/wiki/Home
 
 https://en.wikipedia.org/wiki/List_of_open-source_hardware_projects
